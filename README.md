@@ -1,10 +1,8 @@
-# O-Caso-Da-Vinheria-Angelo-
-
 # 🍷 Sistema de Monitoramento Ambiental para Vinheria
 
 Projeto desenvolvido para o **Checkpoint 02 – Edge Computing & Computer Systems (FIAP)**, com foco no monitoramento das condições ambientais de uma vinheria.
 
-O sistema analisa **luminosidade, temperatura e umidade**, exibindo informações em um **LCD 16x2** e emitindo alertas visuais e sonoros quando os valores estão fora da faixa ideal.
+O sistema realiza o monitoramento de **luminosidade, temperatura e umidade**, exibindo informações em um **LCD 16x2** e emitindo alertas visuais e sonoros quando os valores estão fora da faixa ideal.
 
 ---
 
@@ -38,17 +36,30 @@ O sistema analisa **luminosidade, temperatura e umidade**, exibindo informaçõe
 
 ### 🌡️ Temperatura
 - **10°C a 15°C** → Ideal  
-- **>15°C** → Alerta de temperatura alta  
-- **<10°C** → Alerta de temperatura baixa  
+- **Acima de 15°C** → Temperatura alta  
+- **Abaixo de 10°C** → Temperatura baixa  
 
 ### 💧 Umidade
 - **50% a 70%** → Ideal  
-- Fora da faixa → Alerta
+- **Fora da faixa** → Alerta  
 
 ### 💡 Luminosidade
 - **Baixa** → LED verde  
 - **Média** → LED amarelo  
-- **Alta** → LED vermelho + buzzer
+- **Alta** → LED vermelho + buzzer  
+
+---
+
+## 🔗 Links do Projeto
+
+**Wokwi:**  
+(https://wokwi.com/projects/463747130938169345)
+
+**GitHub:**  
+(https://github.com/MatheusSato00/O-Caso-Da-Vinheria-Angelo-)
+
+**Vídeo Demonstrativo:**  
+Cole aqui o link do vídeo
 
 ---
 
@@ -63,15 +74,7 @@ O sistema analisa **luminosidade, temperatura e umidade**, exibindo informaçõe
 
 ---
 
-## ▶️ Como Executar
-
-1. Abra o projeto no **Wokwi**
-2. Cole o código no `sketch.ino`
-3. Cole o circuito no `diagram.json`
-4. Clique em **Run**
-
----
-
 ## 📄 Conclusão
 
 Este projeto aplica conceitos de **IoT, sensores e automação**, simulando um sistema de monitoramento ambiental para auxiliar na preservação adequada de vinhos.
+
