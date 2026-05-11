@@ -1,5 +1,16 @@
 # 🍷 Sistema de Monitoramento Ambiental para Vinheria
 
+## 👥 Integrantes
+
+| Nome | RM |
+|-------|----|
+| Matheus Mendes | RM569559 |
+| Matheus Sato | RM569392 |
+
+---
+
+## 📌 Sobre o Projeto
+
 Projeto desenvolvido para o **Checkpoint 02 – Edge Computing & Computer Systems (FIAP)**, com foco no monitoramento das condições ambientais de uma vinheria.
 
 O sistema realiza o monitoramento de **luminosidade, temperatura e umidade**, exibindo informações em um **LCD 16x2** e emitindo alertas visuais e sonoros quando os valores estão fora da faixa ideal.
@@ -53,10 +64,10 @@ O sistema realiza o monitoramento de **luminosidade, temperatura e umidade**, ex
 ## 🔗 Links do Projeto
 
 **Wokwi:**  
-(https://wokwi.com/projects/463747130938169345)
+[Cole aqui o link da simulação](https://wokwi.com/projects/463747130938169345)
 
 **GitHub:**  
-(https://github.com/MatheusSato00/O-Caso-Da-Vinheria-Angelo-)
+[Cole aqui o link do repositório](https://github.com/MatheusSato00/O-Caso-Da-Vinheria-Angelo-/edit/main)
 
 **Vídeo Demonstrativo:**  
 Cole aqui o link do vídeo
